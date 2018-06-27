@@ -1,0 +1,55 @@
+
+html {
+    background-image: url("../images/clouds.png");
+}
+
+h1 {
+color: red;
+background-color: yellow;
+width: 500px;
+height: 100px;
+font-size: 70px;
+margin: auto;
+margin-top: 50px;
+padding-left: 120px;
+font-family: 'Shrikhand', cursive;
+border: 3px solid black;
+}
+
+#gameForm{
+float:right;
+color: darkblue;
+font-family: arial;
+font-size: 20px;
+margin-right: 75px;
+margin-top: 20px;
+font-family: 'Concert One', cursive;
+letter-spacing: 2px;
+}
+
+#gameInput{
+color: blue;
+border: #334fcc solid 2px;
+box-shadow: 0px 3px 8px whitesmoke;
+border-radius: 2px 2px 2px 2px;
+font-size: 15px;
+}
+
+#addGame {
+font-size: 15px;
+color: darkgoldenrod;
+background-color:yellow ;
+border-radius: 25px;
+}
+
+.games {
+color: navy;
+background-color: white;
+font-size: 15px;
+margin-top: 20px;
+margin-right: 20px;
+}
+
+.rate {
+color: navy;
+}
